@@ -15,6 +15,7 @@ Open-Source **Django** starter coded with basic modules, database, ORM and deplo
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
+# modification par lyna
 
 > Links
 
