@@ -252,4 +252,9 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ---
 [Django Pixel Lite](https://appseed.us/django/django-pixel-bootstrap-uikit) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+## Modifications
+
+- Ajout d'une nouvelle page dashboard
+- Modification du fichier templates/index.html
+- Amélioration du système d'authentification
 #ayoub soibni 
