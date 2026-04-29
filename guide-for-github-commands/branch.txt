@@ -1,0 +1,18 @@
+Clone the repository:
+git clone https://github.com/oumaymakelmi/django.git
+Enter the project folder:
+cd django
+Create your own branch (replace your-name with your branch name):
+git checkout -b your-name
+Check that you're on your branch:
+git branch
+Make your changes in the project.
+Add modified files:
+git add .
+Commit changes:
+git commit -m "Added my changes"
+Push your branch to GitHub:
+git push origin your-name
+
+
+//added by ahmeddiwani 
