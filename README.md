@@ -23,7 +23,7 @@ Open-Source **Django** starter coded with basic modules, database, ORM and deplo
 - [Django Pixel Lite](https://docs.appseed.us/products/django-apps/pixel-lite) - product documentation
 
 <br />
-
+#modifier par massouda
 ![Django Pixel Lite - Template project provided by AppSeed](https://user-images.githubusercontent.com/51070104/119159649-1fea2f00-ba60-11eb-9781-0adaffaa197a.png)
 
 <br />
